@@ -20,5 +20,7 @@ public class Test
             //throw new RuntimeException(e);
             System.out.println("Error reading file: " + e);
         }
+
+        //kommentar om kode
     }
 }
