@@ -22,5 +22,6 @@ public class Test
         }
 
         //kommentar om kode
+        //ny kommentar
     }
 }
